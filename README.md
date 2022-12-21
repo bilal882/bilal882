@@ -9,9 +9,9 @@
 
 - 🥅 2022 Goals: **Contribute more to Open Source projects on React.**
 
-- 📄 Know about my experiences [https://me-mbi.netlify.app](https://me-mbi.netlify.app)
+- 📄 Know about my experiences [My Portfolio](https://me-mbi.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/bilal882s](https://github.com/bilal882s)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/bilal882s)
 
 - 🔭 I’m currently working **As Frontend Engineer.**
 
