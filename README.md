@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal882s" alt="bilal882s" /></a> </p>
 
 <h1>Top Languages </h1>
-![top-langs][top-langs] 
 
+
+![top-langs][top-langs] 
 [top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=bilal882s
 
 
