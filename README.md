@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<h1>Top Languages </h1>
-
 
 ![top-langs][top-langs] 
 [top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=bilal882s
