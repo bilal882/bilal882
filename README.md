@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal882s" alt="bilal882s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal882s" alt="bilal882s" /></a> </p> 
 
 
 - 🔭 My 1st Project [Bank App](https://bank-app882.web.app)
@@ -42,6 +42,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bilal882s&bg_color=ffffff&color=000000&line=428f5a&point=216e39&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
+ 
+ 
  <div align="center">
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
