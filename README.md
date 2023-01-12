@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal882s&show_icons=true&locale=en" alt="bilal882s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal882s&" alt="bilal882s" /></p>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bilal882s&bg_color=ffffff&color=000000&line=428f5a&point=216e39&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
