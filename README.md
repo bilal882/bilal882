@@ -61,13 +61,21 @@
 </div>
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Muhammad Bilal.
+  <!--hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Muhammad Bilal.-->
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There+!+👋;+I'm+Muhammad+Bilal+!;+I'm+Web+and+Mobile+app+developer+!+.+.;" />
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   ---
+
+  ### :woman_technologist: My Work :
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
+</picture>
   
   <div align="left">
 
