@@ -74,11 +74,11 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-<!--   <img alt="github-snake" src="./github"> -->
+  <img alt="github-snake" src="./snake.svg">
 </picture>
-  
-  <div align="left">
 
+  
+<div align="left">
 ### :woman_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
