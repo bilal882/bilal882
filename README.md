@@ -70,16 +70,18 @@
 </div>
   ---
 
+
   ### :woman_technologist: My Work :
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509277/Dark_qxqdfn.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509195/github-user-contribution_2_vinlar.svg">
   <img alt="github-snake" src="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509195/github-user-contribution_2_vinlar.svg">
 </picture>
-
+  ---
   
 <div align="left">
-### :woman_technologist: About Me :
+ 
+### About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -88,6 +90,10 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muhammadbilal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadbilaliqbal)
   
     ---
+  
+### My Stats :
+ [![bilal882's GitHub | Stats](https://stats.quine.sh/bilal882/github?theme=dark)]()
+ [![bilal882's GitHub | Languages Over Time](https://stats.quine.sh/bilal882/languages-over-time?theme=dark)]() [![bilal882's GitHub | Topics Over Time](https://stats.quine.sh/bilal882/topics-over-time?theme=dark)]()
 
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
