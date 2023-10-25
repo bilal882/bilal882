@@ -91,7 +91,7 @@
   
     ---
   
-### My Stats :
+<!-- ### My Stats :
  [![bilal882's GitHub | Stats](https://stats.quine.sh/bilal882/github?theme=dark)]()
  [![bilal882's GitHub | Languages Over Time](https://stats.quine.sh/bilal882/languages-over-time?theme=dark)]() [![bilal882's GitHub | Topics Over Time](https://stats.quine.sh/bilal882/topics-over-time?theme=dark)]()
 
@@ -107,6 +107,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 ---
+-->
 <!-- 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=bilal882s&theme=highcontrast&border_radius=6.3)](https://git.io/streak-stats)
